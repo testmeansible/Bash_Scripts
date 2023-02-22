@@ -1,1 +1,9 @@
+# Exclude Test files
 test.sh
+
+# Exclude Binaries
+*.exe
+*.dll
+
+# Exclude Output files
+*.out 

@@ -1,4 +1,4 @@
-How to setup zimbra vulnerabel machine
+### How to setup zimbra vulnerabel machine
 
 Step 1. Change the IP settings in (ip_addr_change.sh) file and save the changes.
 
@@ -29,7 +29,7 @@ Step 13. Allow (Yes) to make system modifications.
 Step 14. Verify the zimbra service by switching user to zimbra and check for (zmcontrol status)
 
 
-How to setup Attack machine to exploit zimbra vulnerale machine
+### How to setup Attack machine to exploit zimbra vulnerale machine
 
 Step 1. check the ip address
 

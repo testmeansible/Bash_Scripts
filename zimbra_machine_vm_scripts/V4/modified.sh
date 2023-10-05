@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path_used='/home/john/Downloads'
+path_used='/home/$USER/Downloads'
 #update package manger list
 apt-get update -y
 
